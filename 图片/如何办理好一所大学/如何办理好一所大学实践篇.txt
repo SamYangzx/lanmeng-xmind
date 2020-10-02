@@ -1,0 +1,122 @@
+科研流程：（搜索资料了解目前存在的问题、国内外现状，提出自己的研究内容和技术路线，进行试验或理论研究，得出结论。）
+1.查资料；
+	继续查资料还是基于现在已经找到的方法开始尝试？
+2.怎样的实验是有意义的？
+	如何对比数据：数据趋势分析、数据对比分析、数据分类分析、
+	如果一种数据的分布不服从常见的正态分布、泊松分布、二项分布的话，那它就接近服从二八分布了。
+
+----
+一般整个论文框架包括：
+1.摘要，浓缩整片论文，三百字左右，写三十字论文背景然后引出论文的学术界现状差不多一百字，然后写出论文的研究重点，包括现状、不足和对策。
+2.前言，以介绍论文的研究背景和研究意义为主，并写出论文主要结构。差不多300-500字。
+3.文献综述，写学术界研究的成果，和哪里没有研究或者研究的少，接着写自己的创新之处。差不多写500-1000字。
+4.理论概述，这部分写差不多论文的理论支撑，差不多是一千字左右。要和下文联系起来，不能这里写的下文没提到。
+5正文重点，这部分主要是你要研究的部分，包括数据分析，现状总结等，具体看专业的，差不多三千字。
+6对策建议，这里就是要严格按照你研究的不足写针对的对策，这里会体现出你逻辑的连贯性，比较重要，对策尽量要有创新，不然怎么体现论文的价值，差不多写1000字。
+7.全文总结，这里就是相当于摘要，但是要更详细一点，500字左右。
+8致谢，就是谢谢老师啊学校啊同学啊，尽量不要花里胡哨就行
+9.文献参考
+
+
+------------
+科研的种类：
+基础理论、理论到技术变现、技术到工程应用、细节的空白填补。
+1.根据现象推理论；
+2.纯粹的理论推导；——数学
+3.根据理论来指导技术实现；
+4.技术的优化使得能在工程上应用；
+5.基于现有理论的漏洞填补；
+
+----------
+
+
+=================
+
+============
+如何办理好一所大学
+1.不可太理想；
+2.分类而治：（研究，工作，思维，兴趣）
+--------
+在之前的文章中我们已经简要论述了大学生的存在是因为国家的需要，大学生毕业后步入社会时必定是极少数从事科研，部分人从事专业相关工作，剩下的转行了。所以大学内没必要都所有人都进行严格的考试考察。
+另一方面，大学的改革过程中，极易伴随着多方面的利益冲突。学校、老师、学生、家长、社会……在《钱学森之问》这篇文章中里面描述了XXX先生想严抓学风时想开除学生，结果引起学生家长强烈反对。我觉得这确实是当今大学的一个悲哀所在。我上大学时，就碰到了不少学生，考试不及格，但老师被要求控制及格率而给他们过的情况。
+现在看这事，我感觉XXX先生做法理想得有点激进了。规划太过理想，会使得实际操作无法闭环！这是我工作多年后得出的一条非常重要的结论。
+但现在我有了另外一种看法，自高考扩招后，学校（就算是985）其中最大的职能也不是培养研究型人才，而是培养工作型人才。而工作型人才本身对知识的掌握要求程度就没有也不应该那么深。
+现在回想起大学时做学委时居然还想着去提升班级的学习氛围啥的，感觉自己真是傻了吧唧的。
+
+既然大学已不适合过度追究考试问题，是否就意味着学校可以无为而治、象征性的让学生走完上课形式就结束了呢？答案是否定的。学校在主动教育这块依然有重大责任与义务。
+严格定量的考试成绩考核是不合适的，阻力太大会使得正确有用的实事也难以执行。但外面的人只能看到形势，看不到本质；就算看到了本质，只要大学不违反规定、不过度触及别人的利益，那么在做好形势的前提下，暗度陈仓偷偷地做更多实事去在科研、工作技能、思维这三块。我觉得是完全可行，而且是必须的。这也是优化大学办理方式的方向。
+
+之前已经说过，在培养这块，学校在于提供制度、资源，打通学生和资源间的通道；学生也要主动参与。
+现在把学生对教学活动的参与热忱度和配合度从高到低分为如下几种：
+1).积极主动的兴趣型：对知识表现浓厚的兴趣，且有一定能力探究原理；
+2).随波逐流的参与型：对知识兴趣一般，但智力足以应付考试考核需求；
+3).得过且过的懒散型：对课程知识没太大兴趣，只想快点混完大学完事。
+
+显然，这里面只有第一类学生是适合进一步做研究的。如何更好的发挥他们的才能，让他们更好的从事科研工作，为祖国科研事业做贡献？
+由于社会对科研人员的需求量没这么大，注定了其中的一部分人仅能从事相关的工作。第二类学生也还比较适合相关工作。如何让其在毕业后能得到社会的认可，更便于拿到offer?
+第三类可能只能从事对专业知识要求不太高的工作了。这里有个问题：如果后两类学生只是因为本专业不是其感兴趣的，而不太愿主动参与怎么办？如何让大学生尽可能广泛的体验各科目间的课程、以后要从事的工作，帮其更早地找到自己的兴趣与方向所在？
+
+---------------------
+如果我是大学校长，我会采取如下措施。
+1.整理图书馆
+图书馆是一所学校最方便简单的资源，但我根据我去过的几个图书馆里面的书籍分类推测出一个结论：绝大多数学校内或学校外的图书馆都办得及其随意，都是不合格的。主要表现在：有用书籍比例少，新书更新慢。
+我不清楚为什么
+
+
+===============
+申请唤醒锁流程：
+PowerManager.WakeLock.acquire--
+    PowerManagerService.acquireWakeLock---acquireWakeLockInternal--updatePowerStateLocked
+        ---WakeLockSuspendBlocker.acquire---nativeAcquireSuspendBlocker
+			---PowerManagerService.cpp中的nativeAcquireSuspendBlocker---acquire_wake_lock
+                ---hardware目录中的 power.c 中的 acquire_wake_lock 这部的机理不清楚。
+
+
+释放唤醒锁流程：
+PowerManager.WakeLock.release--
+    PowerManagerService.releaseWakeLock---releaseWakeLockInternal---removeWakeLockLocked--updatePowerStateLocked
+        ---WakeLockSuspendBlocker.release---nativeReleaseSuspendBlocker
+			---PowerManagerService.cpp中的 nativeReleaseSuspendBlocker---release_wake_lock
+                ---hardware目录中的 power.c 中的 release_wake_lock 这部的机理不清楚。
+
+=======================
+待机流程：
+PowerManager.goToSleep---PowerManagerService.goToSleepWithReason---goToSleepNoUpdateLocked(更新变量值，发送通知等)---updatePowerStateLocked
+
+------
+updatePowerStateLocked 中部分函数分析如下；
+	//更新电池信息
+	updateIsPoweredLocked(mDirty);
+	//更新屏幕保持唤醒标识值mStayOn
+	updateStayOnLocked(mDirty);
+	//亮度增强相关
+	updateScreenBrightnessBoostLocked(mDirty);
+ //更新统计wakelock的标记值mWakeLockSummary
+	    updateWakeLockSummaryLocked(dirtyPhase1);
+	    //更新统计userActivity的标记值mUserActivitySummary和休眠到达时间
+	    updateUserActivitySummaryLocked(now, dirtyPhase1);
+	    //用来更新屏幕唤醒状态，状态改变返回true
+	    if (!updateWakefulnessLocked(dirtyPhase1)) {
+// Phase 2: Update display power state.
+	//和Display交互，请求Display状态
+	boolean displayBecameReady = updateDisplayPowerStateLocked(dirtyPhase2);
+	// Phase 3: Update dream state (depends on display ready signal).
+	//更新屏保
+	updateDreamLocked(dirtyPhase2, displayBecameReady);
+	// Phase 4: Send notifications, if needed.
+	//如果wakefulness改变，做最后的收尾工作
+	finishWakefulnessChangeIfNeededLocked();
+	// Phase 5: Update suspend blocker.
+	// Because we might release the last suspend blocker here, we need to make 
+	//surewe finished everything else first!
+	//更新Suspend锁
+	updateSuspendBlockerLocked();
+————————————————
+涉及与显示控制类DisplayPowerController 的交互。
+
+
+
+
+
+
+
